@@ -1,1 +1,1 @@
-# Python_GB
+# Знакомство с языком Python на GeekBrains
