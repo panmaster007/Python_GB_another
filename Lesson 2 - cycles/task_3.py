@@ -9,7 +9,3 @@ def degrees_of_two(number):
         start_num *= 2
 
 degrees_of_two(50)
-
-'''
-    Вывод данных оканчивается на знак %, почему так?
-'''
